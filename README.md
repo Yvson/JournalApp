@@ -41,7 +41,7 @@ Add/Edit Page
 
 ![AddEditEntryPage][]
 
-## Architecture Diagram
+## [Architecture Diagram](https://github.com/Yvson/JournalApp/blob/master/ArchitectureScreens/Journal.drawio)
 BLoC Pattern + Provider (InheritedWidget) + Firebase (Data Service)
 ![Journal][]
 
