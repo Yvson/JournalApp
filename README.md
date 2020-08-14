@@ -19,10 +19,18 @@ If you want to try to run this app by your own, you should follow the steps belo
 2) In the line 41, replace the Android Package Name (double quotes)  `applicationId "com.domainname.journal"` with the oen you chose in the firebase project configuration.
 
 ## Screens
-Login Page, Home Page, and Add/Edit Page respectively.
-![LoginPage][]      
+Login Page
+
+![LoginPage][]
+
+Home Page
+
 ![HomePage][]
+
+Add/Edit Page
+
 ![AddEditEntryPage][]
+
 ## Architecture Diagram
 BLoC Pattern + Provider (InheritedWidget) + Firebase (Data Service)
 ![Journal][]
