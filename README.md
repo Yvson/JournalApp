@@ -29,17 +29,11 @@ service cloud.firestore {
 2) In the line 41, replace the Android Package Name (in double quotes)  `applicationId "com.domainname.journal"` with the one you chose in the firebase project configuration.
 
 ## Screens
-Login Page
+Login Page, Home Page, and Add/Edit Page, respectively.
 
-![LoginPage][]
+![LoginPage][]  ![HomePage][]  ![AddEditEntryPage][]
 
-Home Page
 
-![HomePage][]
-
-Add/Edit Page
-
-![AddEditEntryPage][]
 
 ## [Architecture Diagram](https://github.com/Yvson/JournalApp/blob/master/ArchitectureScreens/Journal.drawio)
 BLoC Pattern + Provider (InheritedWidget) + Firebase (Data Service)
