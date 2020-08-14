@@ -8,7 +8,7 @@ If you want to try to run this app by your own, you should follow the steps belo
 
 ### Create a new Firebase Project
 Go to [Firebase](https://console.firebase.google.com) and create a new project. Important things to do:
-1) Download the `google-services.json` file and replace the one found in `\JournalApp\android\app` by the new one.
+1) Download the `google-services.json` file and replace the one found in `\JournalApp\android\app` by the downloaded one.
 2) Go to the Authentication tab on the Firebase console and enable the Email/Password option.
 3) Go to the Database and create one. For the Security Rules, choose "Start in locked mode" and paste the following code:
 
