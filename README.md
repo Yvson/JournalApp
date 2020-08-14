@@ -49,7 +49,7 @@ BLoC Pattern + Provider (InheritedWidget) + Firebase (Data Service)
 
 ## 
 
-[LoginPage]: https://github.com/Yvson/JournalApp/blob/master/ArchitectureScreens/LoginPage.png
-[HomePage]: https://github.com/Yvson/JournalApp/blob/master/ArchitectureScreens/HomePage.png
-[AddEditEntryPage]: https://github.com/Yvson/JournalApp/blob/master/ArchitectureScreens/AddEditEntryPage.png
+[LoginPage]: https://github.com/Yvson/JournalApp/blob/master/ArchitectureScreens/loginPage.png
+[HomePage]: https://github.com/Yvson/JournalApp/blob/master/ArchitectureScreens/homePage.png
+[AddEditEntryPage]: https://github.com/Yvson/JournalApp/blob/master/ArchitectureScreens/addEditEntryPage.png
 [Journal]: https://github.com/Yvson/JournalApp/blob/master/ArchitectureScreens/Journal.png
