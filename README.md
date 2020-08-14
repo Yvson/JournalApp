@@ -20,10 +20,9 @@ If you want to try to run this app by your own, you should follow the steps belo
 
 ## Screens
 Login Page, Home Page, and Add/Edit Page respectively.
-
-![LoginPage][]   ![HomePage][]   ![AddEditEntryPage][]
-
-
+![LoginPage][]      
+![HomePage][]
+![AddEditEntryPage][]
 ## Architecture Diagram
 BLoC Pattern + Provider (InheritedWidget) + Firebase (Data Service)
 ![Journal][]
