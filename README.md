@@ -36,7 +36,7 @@ Login Page, Home Page, and Add/Edit Page, respectively.
 
 
 ## [Architecture Diagram](https://github.com/Yvson/JournalApp/blob/master/ArchitectureScreens/Journal.drawio)
-BLoC Pattern + Provider (InheritedWidget) + Firebase (Data Service)
+BLoC Pattern + Provider (InheritedWidget) + Firebase (Authentication Service + Cloud Firestore Service)
 ![Journal][]
 
 
