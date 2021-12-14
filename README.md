@@ -4,7 +4,7 @@ This app was originally created by Marco L. Napoli (@JediPixels) in his book ent
 
 
 ## Basic requirements
-If you want to try to run this app by your own, you should follow the steps below.
+If you want to try to run this app on your own, you should follow the steps below.
 
 ### Create a new Firebase Project
 Go to [Firebase](https://console.firebase.google.com) and create a new project. Important things to do:
